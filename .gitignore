@@ -1,0 +1,21 @@
+# Unity 관련 폴더 무시하기
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Oo]bj/
+[Uu]serSettings/
+
+# Visual Studio / Rider 관련 파일 무시하기
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+
+# Mac 관련 파일 무시하기
+.DS_Store
+
+# 기타 임시 파일 무시하기
+*.tmp
