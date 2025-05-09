@@ -5,18 +5,34 @@
 [Bb]uilds/
 [Oo]bj/
 [Uu]serSettings/
+MemoryCaptures/
+Assets/AssetStoreTools*
 
-# Visual Studio / Rider 관련 파일 무시하기
+# Visual Studio / JetBrains Rider 관련 파일 무시하기
 .vscode/
+.idea/
 *.csproj
 *.unityproj
 *.sln
+*.suo
+*.tmp
 *.user
 *.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
 
-# Mac 관련 파일 무시하기
+# Git 관련 무시 (의도치 않은 커밋 방지)
+*.gitignore.swp
+
+# Mac / 시스템 관련 파일 무시
 .DS_Store
+Thumbs.db
 
-# 기타 임시 파일 무시하기
-*.tmp
+# Unity 로그 및 분석
 Logs/
+sysinfo.txt
