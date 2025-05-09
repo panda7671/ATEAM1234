@@ -36,3 +36,10 @@ Thumbs.db
 # Unity 로그 및 분석
 Logs/
 sysinfo.txt
+
+# 100mb 넘는 폰트
+Assets/Fonts/MyKoreanFont_Standard.asset
+
+# api key
+Assets/Resources/apiKey.json
+Assets/Resources/apiKey.json
