@@ -2956,7 +2956,7 @@ MonoBehaviour:
   userInputField: {fileID: 165616429}
   gptOutputText: {fileID: 2121653844}
   sendButton: {fileID: 335997967}
-  apiKey: REMOVED_API_KEY
+  apiKey: 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
 --- !u!4 &2020679279
 Transform:
   m_ObjectHideFlags: 0
